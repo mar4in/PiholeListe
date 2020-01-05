@@ -1,11 +1,11 @@
 # list
 hpHosts’ Ad and tracking servers || uBlock
-# liste2
+# list2
 Peter Lowe’s Ad and tracking server list || uMatrix
-# liste3
+# list3
 EasyList Germany || uBlock
-# liste4
+# list4
 AdGuard Mobile Ads filter || uBlock
 AdGuard Base filter || uBlock
-# liste5
+# list5
 own
