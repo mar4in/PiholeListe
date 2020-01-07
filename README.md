@@ -9,3 +9,5 @@ AdGuard Mobile Ads filter || uBlock
 AdGuard Base filter || uBlock
 # list5
 own
+# list6
+AdAway default blocklist
