@@ -12,4 +12,6 @@ own
 # list6
 AdAway default blocklist
 # list7
-https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/EasyList-Germany.txt 
+https://raw.githubusercontent.com/Akamaru/Pi-Hole-Lists/master/cryptomine.txt
+https://raw.githubusercontent.com/Akamaru/Pi-Hole-Lists/master/nomsdata.txt
+https://raw.githubusercontent.com/Akamaru/Pi-Hole-Lists/master/mobile.txt
