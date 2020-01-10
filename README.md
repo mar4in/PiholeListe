@@ -11,3 +11,5 @@ AdGuard Base filter || uBlock
 own
 # list6
 AdAway default blocklist
+# list7
+https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/EasyList-Germany.txt 
