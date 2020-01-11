@@ -18,3 +18,7 @@ https://raw.githubusercontent.com/Akamaru/Pi-Hole-Lists/master/mobile.txt
 https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
 # list8
 Easylist || uBlock
+# list9
+Malware Domain List || uBlock
+Malware domains || uBlock
+Malvertising filter list by Disconnect || uBlock
