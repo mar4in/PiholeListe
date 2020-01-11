@@ -22,3 +22,7 @@ Easylist || uBlock
 Malware Domain List || uBlock
 Malware domains || uBlock
 Malvertising filter list by Disconnect || uBlock
+# list10
+AdGuard Tracking Protection
+EasyPrivacy
+Fanboy’s Enhanced Tracking List
