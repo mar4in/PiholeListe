@@ -3,7 +3,14 @@ ssl.google-analytics.com
 1681.engine.mobileapptracking.com
 adservice.google.com
 app-analytics.snapchat.com
-
+euw.adserver.snapads.com
+usc.adserver.snapads.com
+web-frontend-dot-sc-analytics.appspot.com
+events.appsflyer.com
+googleads.g.doubleclick.net
+t.appsflyer.com
+register.appsflyer.com
+beacons.gcp.gvt2.com
 
 # Browser in PC
 amazon-adsystem.com
